@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "955203154858",
+    "project_id": "project-b8a71",
+    "storage_bucket": "project-b8a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955203154858:android:b5bf825743d28d6b6471d3",
+        "android_client_info": {
+          "package_name": "com.example.taskoopia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955203154858-iovnuse0uvn2vqlbaes8jtnm7nbf444k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taskoopia",
+            "certificate_hash": "30e42809136f10ce4031ca49ad905850108bc9fc"
+          }
+        },
+        {
+          "client_id": "955203154858-ig4jokp2hpjgijkk0fv9k14oh3heha54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHkpeU5Z0bQLcQvzJc0ez33D9QIe2Brgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955203154858-ig4jokp2hpjgijkk0fv9k14oh3heha54.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955203154858-djmgmv9mv2n50e19cvhfv07p7bntr4or.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskoopia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
